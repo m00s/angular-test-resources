@@ -1,3 +1,11 @@
+## What is a unit test?
+> A unit test is an automated piece of code that invokes a unit of work in the system and then checks a single assumption about the behavior of that unit of work.
+
+### The AngularJS way
+> Angular is written with testability in mind, but it still requires that you do the right thing. We tried to make the right thing easy, but if you ignore these guidelines you may end up with an untestable application.
+
+> Angular comes with [dependency injection](https://docs.angularjs.org/guide/di) built-in, which makes testing components much easier, because you can pass in a component's dependencies and stub or mock them as you wish.
+
 ### Tools
 Tool         | Description
 ------------ | -------------
