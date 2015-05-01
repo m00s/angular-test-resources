@@ -1,8 +1,22 @@
+## E2E test resources
+> **What does End-to-End Test mean?**
+
+
+>End-to-end testing is a methodology used to test whether the flow of an application is performing as designed from start to finish. The purpose of carrying out end-to-end tests is to identify system dependencies and to ensure that the right information is passed between various system components and systems.
+
+
+>End-to-end testing involves ensuring that that integrated components of an application function as expected. The entire application is tested in a real-world scenario such as communicating with the database, network, hardware and other applications 
+
+ 
+### The AngularJS way
+Angular's team have built [Protractor](http://angular.github.io/protractor/#/), an end to end test runner which simulates user interactions that will help you verify the health of your Angular application.
+Protractor is built on top of [WebDriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs).
+
 ### Tools
 Tool         | Description
 ------------ | -------------
 [Karma](http://karma-runner.github.io/0.12/index.html) | Test runner
-[Protractor](http://angular.github.io/protractor/#/) | e2e test framework built on top of WebDriverJS
+[Protractor](http://angular.github.io/protractor/#/) | E2E test framework
 
 ### Articles
 * [Practical End-to-End Testing with Protractor](http://www.ng-newsletter.com/posts/practical-protractor.html)
