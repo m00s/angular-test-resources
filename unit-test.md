@@ -7,6 +7,9 @@
 > Angular comes with [dependency injection](https://docs.angularjs.org/guide/di) built-in, which makes testing components much easier, because you can pass in a component's dependencies and stub or mock them as you wish.
 
 ### Tools
+
+![Unit testing tools](http://i62.tinypic.com/2cdtqfa.png)
+
 Tool         | Description
 ------------ | -------------
 [Karma](http://karma-runner.github.io/0.12/index.html) | Test runner
