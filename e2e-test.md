@@ -9,6 +9,9 @@
 
  
 ### The AngularJS way
+![Protractor logo](http://i57.tinypic.com/x3fme0.png)
+
+
 Angular's team have built [Protractor](http://angular.github.io/protractor/#/), an end to end test runner which simulates user interactions that will help you verify the health of your Angular application.
 Protractor is built on top of [WebDriverJS](https://code.google.com/p/selenium/wiki/WebDriverJs).
 
