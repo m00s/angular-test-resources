@@ -27,6 +27,7 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 ### Presentations
 * [JavaScript TDD with Jasmine and Karma](http://www.slideshare.net/cebartling/javascript-tdd-with-jasmine-and-karma)
 * [TDD Basics with Angular.js and Jasmin](http://www.slideshare.net/iquark/tdd-basics-with-angular-and-jasmine)
+* [Testing JavaScript with Jasmine](http://www.slideshare.net/timtyrrell/testing-javascript-with-jasmine-8998985)
 
 ### Examples
 * [AngularJS unit testing demo](https://github.com/nirkaufman/angularjs-unit-testing-demo)
@@ -37,7 +38,8 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 
 ### Books
 * [AngularJS Test driven Development (Tim Chaplin)](http://www.amazon.com/AngularJS-Test-driven-Development-Tim-Chaplin/dp/1784398837)
-* [AngularJS Testing Cookbook (Simon Bailey)](http://www.amazon.com/AngularJS-Testing-Cookbook-Simon-Bailey/dp/1783983744)
+* [AngularJS Testing Cookbook (Simon Bailey)](http://www.amazon.com/Angu/larJS-Testing-Cookbook-Simon-Bailey/dp/1783983744)
+* [JavaScript Testing with Jasmine (Evan Hahn)](http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370)
 
 ### Media
 * [Introduction to AngularJS Unit Testing](https://www.youtube.com/watch?v=UDB-jm8MWro)
