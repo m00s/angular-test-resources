@@ -35,8 +35,9 @@ Tool         | Description
 	
 ### Tutorials
 * [Official tutorial](http://angular.github.io/protractor/#/tutorial)
-* [End to End Testing with Protracto](http://thejackalofjavascript.com/end-to-end-testing-with-protractor/)
+* [End to End Testing with Protractor](http://thejackalofjavascript.com/end-to-end-testing-with-protractor/)
 * [Protractor easy setup with yo, grunt and bower](http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman)
+* [E2E with Protractor (Namita Malik)](http://codechutney.in/blog/angularjs/e2e-testing-with-protractor/)
 	
 ### Examples
 * [Example using page object](https://github.com/qualityshepherd/protractor_example)
