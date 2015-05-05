@@ -23,33 +23,33 @@ Tool         | Description
 
 ### Articles
 * [Practical End-to-End Testing with Protractor](http://www.ng-newsletter.com/posts/practical-protractor.html)
-* [Automated e2e testing- WebDriverJS, Jasmine and Protractor](http://engineering.wingify.com/posts/e2e-testing-with-webdriverjs-jasmine/)
-* [Testing AngularJS Apps End to End Using Protractor](http://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/)
-* [Using Page Objects to Overcome Protractor's Shortcomings](http://www.thoughtworks.com/insights/blog/using-page-objects-overcome-protractors-shortcomings)
-* [Asynchronous Testing with Protractor’s ControlFlow](http://spin.atomicobject.com/2014/12/17/asynchronous-testing-protractor-angular/)
+* [Automated e2e testing- WebDriverJS, Jasmine and Protractor (Kushagra Gour)](http://engineering.wingify.com/posts/e2e-testing-with-webdriverjs-jasmine/)
+* [Testing AngularJS Apps End to End Using Protractor (Kamal Sahni)](http://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/)
+* [Using Page Objects to Overcome Protractor's Shortcomings (Thiago Felix)](http://www.thoughtworks.com/insights/blog/using-page-objects-overcome-protractors-shortcomings)
+* [Asynchronous Testing with Protractor’s ControlFlow (Tony Baker)](http://spin.atomicobject.com/2014/12/17/asynchronous-testing-protractor-angular/)
 
 ### Presentations
-* [A step-by-step guide presentation on Protractor end-to-end testing](http://ramonvictor.github.io/protractor/slides/#/)
+* [A step-by-step guide presentation on Protractor end-to-end testing (Ramon Victor)](http://ramonvictor.github.io/protractor/slides/#/)
 * [AngularJS E2E Testing Using Protractor](https://docs.google.com/presentation/d/1QWFnYAur19R7RQ5KkLkLDMOMz5jrzNlBId3XBrwRNs8/edit#slide=id.p)
 * [Sharable NgEurope - Protractor & Testability](https://docs.google.com/presentation/d/1ITWsMDGd6ArrP6KbGRLLzS9f9NMnyqozIdjtaj0Ek2c/edit#slide=id.g4928b62a1_0129)
 	
 ### Tutorials
 * [Official tutorial](http://angular.github.io/protractor/#/tutorial)
-* [End to End Testing with Protractor](http://thejackalofjavascript.com/end-to-end-testing-with-protractor/)
-* [Protractor easy setup with yo, grunt and bower](http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman)
+* [End to End Testing with Protractor (Arvind Ravulavaru)](http://thejackalofjavascript.com/end-to-end-testing-with-protractor/)
+* [Protractor easy setup with yo, grunt and bower (Sanjay Patel)](http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman)
 * [E2E with Protractor (Namita Malik)](http://codechutney.in/blog/angularjs/e2e-testing-with-protractor/)
 	
 ### Examples
-* [Example using page object](https://github.com/qualityshepherd/protractor_example)
-* [Demo application with protractor test](https://github.com/juliemr/protractor-demo)
+* [Example using page object (Brian Ray)](https://github.com/qualityshepherd/protractor_example)
+* [Demo application with protractor test (juliemr)](https://github.com/juliemr/protractor-demo)
 	
 ### Books
 * [Agile software testing](http://info.thoughtworks.com/ebook-agile-software-testing)
 
 ### Media
-* [An Introduction to AngularJS End to End Testing with Protractor](https://www.youtube.com/watch?v=idb6hOxlyb8)
+* [An Introduction to AngularJS End to End Testing with Protractor (Jim Lavin)](https://www.youtube.com/watch?v=idb6hOxlyb8)
 * [Learn protractor testing for angularjs (egghead)](https://egghead.io/series/learn-protractor-testing-for-angularjs)
-* [Debugging protractor tests in Webstorm](https://www.youtube.com/watch?v=VLMyI7QKcwg)
+* [Debugging protractor tests in Webstorm (Andres Dominguez)](https://www.youtube.com/watch?v=VLMyI7QKcwg)
 * [Protractor w/ Julie Ralph](http://devchat.tv/js-jabber/106-jsj-protractor-with-julie-ralph)
 	
 ### Helpful links
