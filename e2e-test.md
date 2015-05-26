@@ -56,3 +56,4 @@ Tool         | Description
 * [Page obj design pattern](https://code.google.com/p/selenium/wiki/PageObjects)
 * [Page obj (Martin Fowler)](http://martinfowler.com/bliki/PageObject.html)
 * [Using Page Objects to Organize Tests](https://github.com/angular/protractor/blob/master/docs/page-objects.md)
+* [:star:] [Protractor testing guidelines (Carmen Popoviciu)](https://github.com/CarmenPopoviciu/protractor-testing-guidelines)
