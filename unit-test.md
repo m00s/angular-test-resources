@@ -27,12 +27,12 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 * [:star:] [How to Unit Test an AngularJS Controller (Bradley Braithwaite)](http://www.bradoncode.com/blog/2015/05/17/angularjs-testing-controller/)
 
 ### Presentations
-* [:star:] [JavaScript TDD with Jasmine and Karma](http://www.slideshare.net/cebartling/javascript-tdd-with-jasmine-and-karma)
-* [TDD Basics with Angular.js and Jasmin](http://www.slideshare.net/iquark/tdd-basics-with-angular-and-jasmine)
-* [Testing JavaScript with Jasmine](http://www.slideshare.net/timtyrrell/testing-javascript-with-jasmine-8998985)
+* [:star:] [JavaScript TDD with Jasmine and Karma (Christopher Bartling)](http://www.slideshare.net/cebartling/javascript-tdd-with-jasmine-and-karma)
+* [TDD Basics with Angular.js and Jasmine (Luis Sánchez Castellanos)](http://www.slideshare.net/iquark/tdd-basics-with-angular-and-jasmine)
+* [Testing JavaScript with Jasmine (Tim Tyrrell)](http://www.slideshare.net/timtyrrell/testing-javascript-with-jasmine-8998985)
 
 ### Examples
-* [AngularJS unit testing demo](https://github.com/nirkaufman/angularjs-unit-testing-demo)
+* [AngularJS unit testing demo (nirkaufman)](https://github.com/nirkaufman/angularjs-unit-testing-demo)
 
 ### Fiddles
 * [Testing a controller w/ Jasmine](http://jsfiddle.net/eitanp461/XrJMr/)
@@ -44,8 +44,8 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 * [JavaScript Testing with Jasmine (Evan Hahn)](http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370)
 
 ### Media
-* [Introduction to AngularJS Unit Testing](https://www.youtube.com/watch?v=UDB-jm8MWro)
-* [Testing Strategies for Angular JS](https://www.youtube.com/watch?v=UYVcY9EJcRs)
+* [Introduction to AngularJS Unit Testing (Jim Lavin)](https://www.youtube.com/watch?v=UDB-jm8MWro)
+* [Testing Strategies for Angular JS (David Mosher)](https://www.youtube.com/watch?v=UYVcY9EJcRs)
 * [AngularJs Unit Testing with Jasmine (playlist)](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDbh2i6knU4FybWA63PPbVi)
 
 ### Helpful links
