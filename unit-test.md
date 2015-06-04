@@ -19,7 +19,7 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 
 ### Articles
 * [Full-Spectrum Testing with AngularJS and Karma (yearofmoo)](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
-* [:star:] [Unit Testing Best Practices in AngularJS (Andy Shora)](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+* [Unit Testing Best Practices in AngularJS (Andy Shora)](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 * [AngularJS Unit Testing Best Practices (Manuel Weiss)](https://blog.codeship.com/angularjs-tdd/)
 * [:star:] [Testing Promises with Jasmine (Bluescreen)](http://ng-learn.org/2014/08/Testing_Promises_with_Jasmine/)
 * [Advanced Testing and Debugging in AngularJS (yearofmoo)](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
