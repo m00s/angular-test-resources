@@ -22,7 +22,7 @@ Tool         | Description
 [Protractor](http://angular.github.io/protractor/#/) | E2E test framework
 
 ### Articles
-* [Practical End-to-End Testing with Protractor](http://www.ng-newsletter.com/posts/practical-protractor.html)
+* [:star:] [Practical End-to-End Testing with Protractor](http://www.ng-newsletter.com/posts/practical-protractor.html)
 * [Automated e2e testing- WebDriverJS, Jasmine and Protractor (Kushagra Gour)](http://engineering.wingify.com/posts/e2e-testing-with-webdriverjs-jasmine/)
 * [Testing AngularJS Apps End to End Using Protractor (Kamal Sahni)](http://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/)
 * [Using Page Objects to Overcome Protractor's Shortcomings (Thiago Felix)](http://www.thoughtworks.com/insights/blog/using-page-objects-overcome-protractors-shortcomings)
