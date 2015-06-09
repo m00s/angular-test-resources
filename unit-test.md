@@ -35,8 +35,10 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 * [AngularJS unit testing demo (nirkaufman)](https://github.com/nirkaufman/angularjs-unit-testing-demo)
 
 ### Fiddles
-* [Testing a controller w/ Jasmine](http://jsfiddle.net/eitanp461/XrJMr/)
-* [Testing promises w/ Jasmine](http://jsfiddle.net/eitanp461/vjJmY/)
+* [Testing a controller with Jasmine](http://jsfiddle.net/eitanp461/XrJMr/)
+* [Testing a directive with Jasmine](http://jsfiddle.net/eitanp461/wFFet/)
+* [Testing a filter with Jasmine](http://jsfiddle.net/eitanp461/E64Se/)
+* [Testing promises with Jasmine](http://jsfiddle.net/eitanp461/vjJmY/)
 
 ### Books
 * [AngularJS Test driven Development (Tim Chaplin)](http://www.amazon.com/AngularJS-Test-driven-Development-Tim-Chaplin/dp/1784398837)
