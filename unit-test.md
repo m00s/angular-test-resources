@@ -47,7 +47,7 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 
 ### Media
 * [Introduction to AngularJS Unit Testing (Jim Lavin)](https://www.youtube.com/watch?v=UDB-jm8MWro)
-* [Testing Strategies for Angular JS (David Mosher)](https://www.youtube.com/watch?v=UYVcY9EJcRs)
+* [:star:] [Testing Strategies for Angular JS (David Mosher)](https://www.youtube.com/watch?v=UYVcY9EJcRs)
 * [AngularJs Unit Testing with Jasmine (playlist)](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDbh2i6knU4FybWA63PPbVi)
 
 ### Helpful links
