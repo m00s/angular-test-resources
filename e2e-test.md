@@ -27,6 +27,7 @@ Tool         | Description
 * [Testing AngularJS Apps End to End Using Protractor (Kamal Sahni)](http://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/)
 * [Using Page Objects to Overcome Protractor's Shortcomings (Thiago Felix)](http://www.thoughtworks.com/insights/blog/using-page-objects-overcome-protractors-shortcomings)
 * [:star:] [Asynchronous Testing with Protractor’s ControlFlow (Tony Baker)](http://spin.atomicobject.com/2014/12/17/asynchronous-testing-protractor-angular/)
+* [E2E testing with Angular, Protractor, and Rails (Chris Roth)](https://medium.com/how-we-build-fedora/e2e-testing-with-angular-protractor-and-rails-725fbefb8149)
 
 ### Presentations
 * [:star:] [A step-by-step guide presentation on Protractor end-to-end testing (Ramon Victor)](http://ramonvictor.github.io/protractor/slides/#/)
@@ -51,6 +52,7 @@ Tool         | Description
 * [:star:] [Learn protractor testing for angularjs (egghead)](https://egghead.io/series/learn-protractor-testing-for-angularjs)
 * [Debugging protractor tests in Webstorm (Andres Dominguez)](https://www.youtube.com/watch?v=VLMyI7QKcwg)
 * [Protractor w/ Julie Ralph](http://devchat.tv/js-jabber/106-jsj-protractor-with-julie-ralph)
+* [Injecting and Using Angular Modules ](https://masteringmean.com/lessons/599-Angular-e2e-Protractor-Testing-Injecting-and-Using-Angular-Modules)
 	
 ### Helpful links
 * [Page obj design pattern](https://code.google.com/p/selenium/wiki/PageObjects)
