@@ -54,3 +54,4 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 
 ### Helpful links
 * [How to unit test isolated scope directive in AngularJS](http://stackoverflow.com/questions/17371836/how-to-unit-test-isolated-scope-directive-in-angularjs)
+* [How to test John papa vm.model unit testing with jasmine](http://stackoverflow.com/questions/28456747/how-to-test-john-papa-vm-model-unit-testing-with-jasmine)
