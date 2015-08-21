@@ -51,6 +51,7 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 * [Introduction to AngularJS Unit Testing (Jim Lavin)](https://www.youtube.com/watch?v=UDB-jm8MWro)
 * [:star:] [Testing Strategies for Angular JS (David Mosher)](https://www.youtube.com/watch?v=UYVcY9EJcRs)
 * [AngularJs Unit Testing with Jasmine (playlist)](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PDbh2i6knU4FybWA63PPbVi)
+* [:star:] [Play by Play: Angular Testing with John Papa and Ward Bell](http://www.pluralsight.com/courses/play-by-play-angular-testing-papa-bell)
 
 ### Helpful links
 * [How to unit test isolated scope directive in AngularJS](http://stackoverflow.com/questions/17371836/how-to-unit-test-isolated-scope-directive-in-angularjs)
