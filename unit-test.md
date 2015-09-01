@@ -57,3 +57,4 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 * [How to unit test isolated scope directive in AngularJS](http://stackoverflow.com/questions/17371836/how-to-unit-test-isolated-scope-directive-in-angularjs)
 * [:star:] [How to test John papa vm.model unit testing with jasmine](http://stackoverflow.com/questions/28456747/how-to-test-john-papa-vm-model-unit-testing-with-jasmine)
 * [How to test that a $q promise chain was resolved](http://stackoverflow.com/questions/31229875/angular-jasmine-how-to-test-that-a-q-promise-chain-was-resolved)
+* [Top 5 Testing and Mocking AngularJS Modules](http://angularjs4u.com/testing-and-mocking/top-5-testing-mocking-angularjs-modules/)
