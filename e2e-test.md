@@ -53,6 +53,7 @@ Tool         | Description
 * [Debugging protractor tests in Webstorm (Andres Dominguez)](https://www.youtube.com/watch?v=VLMyI7QKcwg)
 * [Protractor w/ Julie Ralph](http://devchat.tv/js-jabber/106-jsj-protractor-with-julie-ralph)
 * [Injecting and Using Angular Modules ](https://masteringmean.com/lessons/599-Angular-e2e-Protractor-Testing-Injecting-and-Using-Angular-Modules)
+* [Writing E-2-E tests for AngularJS using Protractor (Arun Mahendrakar)](https://www.youtube.com/watch?v=99Mh-rbeYOM)
 	
 ### Helpful links
 * [Page obj design pattern](https://code.google.com/p/selenium/wiki/PageObjects)
