@@ -61,3 +61,4 @@ Tool         | Description
 * [Using Page Objects to Organize Tests](https://github.com/angular/protractor/blob/master/docs/page-objects.md)
 * [:star:] [Protractor testing guidelines (Carmen Popoviciu)](https://github.com/CarmenPopoviciu/protractor-testing-guidelines)
 * [Gist with useful Protractor e2e examples (auser)](https://gist.github.com/auser/8415172)
+* [:star:] [Protractor styleguide (CarmenPopoviciu)](https://github.com/CarmenPopoviciu/protractor-styleguide)
