@@ -27,6 +27,7 @@ I tried every test framework listed above and I definitely agree with [the JS gu
 * [:star:] [How to Unit Test an AngularJS Controller (Bradley Braithwaite)](http://www.bradoncode.com/blog/2015/05/17/angularjs-testing-controller/)
 * [AngularJS Unit Testing – For Real, Though (Ben Lewis)](https://quickleft.com/blog/angularjs-unit-testing-for-real-though/)
 * [Unit Testing AngularJS Modules (Edwin Guzman)](http://www.nypl.org/blog/2015/07/14/unit-testing-angular-js)
+* [How to Unit Test with real $http calls using ngMockE2E (Bradley Braithwaite)](http://www.bradoncode.com/blog/2015/06/16/unit-test-http-ngmock-passthrough/)
 
 ### Presentations
 * [:star:] [JavaScript TDD with Jasmine and Karma (Christopher Bartling)](http://www.slideshare.net/cebartling/javascript-tdd-with-jasmine-and-karma)
